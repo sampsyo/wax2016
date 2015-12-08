@@ -3,6 +3,7 @@ date = "2015-12-07T18:26:17-08:00"
 title = "Home"
 type = "index"
 menu = "main"
+weight = 0
 +++
 
 ## The 2016 Workshop on Approximate Computing Across the Stack
