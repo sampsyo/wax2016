@@ -1,5 +1,5 @@
 = content main
-  {{/* https://github.com/spf12/hugo/issues/330 */}}
+  / Workaround: https://github.com/spf12/hugo/issues/330
   {{ range .Data.Pages }}
     {{if eq .Type "index" }} {{.Content}} {{end}}
   {{ end }}
