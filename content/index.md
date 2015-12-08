@@ -13,6 +13,10 @@ Welcome to the 2016 Workshop on Approximate Computing Across the Stack (WAX)! WA
 WAX will be co-located with [ASPLOS 2016][] in Atlanta.
 It will be held on Sunday, April 3, 2016.
 
+Organizers:
+
+{{% people %}}
+
 Previous instances:
 
 * [WAX 2015][], at FCRC
