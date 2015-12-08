@@ -9,7 +9,7 @@ type = "index"
 Welcome to the 2016 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
 
 WAX will be co-located with [ASPLOS 2016][] in Atlanta.
-It will be held on April 3, 2016.
+It will be held on Sunday, April 3, 2016.
 
 Previous instances:
 
