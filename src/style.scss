@@ -20,14 +20,25 @@ header {
     border-bottom: 2px solid $highlight-color;
 
     h1 {
+        display: inline-block;
+        margin-right: 2rem;
+
         color: $highlight-color;
         :link:hover {
             text-decoration: none;
         }
     }
+
+    nav {
+        display: inline-block;
+        a {
+            display: inline-block;
+        }
+    }
 }
 
 #main {
+    clear: both;
     max-width: $max-width;
 }
 

@@ -1,7 +1,8 @@
 +++
 date = "2015-12-07T18:26:17-08:00"
-title = "index"
+title = "Home"
 type = "index"
+menu = "main"
 +++
 
 ## The 2016 Workshop on Approximate Computing Across the Stack

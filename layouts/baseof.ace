@@ -12,6 +12,10 @@ html lang=en
     header
       h1
         a href={{ .Site.BaseURL }} WAX 2016
+      nav
+        {{ range .Site.Menus.main }}
+          a href={{ .URL }} {{ .Name }}
+        {{ end }}
 
     section id=main
       = yield main
