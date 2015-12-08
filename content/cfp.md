@@ -23,7 +23,7 @@ Possible topics at WAX include:
 - Modeling and understanding approximate computing opportunities and systems
 - Applications amenable to approximation and domain-specific strategies
 - Formal reasoning about programs with approximations
-- Retrospectives on past approximate-computing work, including both reflections on your own past projects and reproduction of others’ results
+- Retrospectives on past approximate-computing work, including both reflections on your own past projects and reproduction of others' results
 - Position papers on approximate computing, potential, how it could fail, what we need to succeed, etc.
 
 
@@ -31,8 +31,8 @@ Possible topics at WAX include:
 
 We invite participation in three forms: position papers, lightning talks, and discussion topics.
 
-- **Peer-Reviewed Position Papers:** The workshop will include a peer-reviewed program of short position papers. Papers can describe an early-stage research project, advocate an opinion about approximate computing, or reflect on trends in the community. Accepted papers will be presented at the workshop in slots ranging from approximately 5 to 15 minutes depending on the paper’s scope and the volume of submissions.
-- **Lightning Talks:** WAX will feature a session for short talks in the morning that present a single opinion, a nugget of an idea, or just food for thought. Speakers will have approximately 60 seconds. Talks will consist of two slides, one of which is a title slide (including at least the title itself and the speaker’s name, affiliation, and email address).
+- **Peer-Reviewed Position Papers:** The workshop will include a peer-reviewed program of short position papers. Papers can describe an early-stage research project, advocate an opinion about approximate computing, or reflect on trends in the community. Accepted papers will be presented at the workshop in slots ranging from approximately 5 to 15 minutes depending on the paper's scope and the volume of submissions.
+- **Lightning Talks:** WAX will feature a session for short talks in the morning that present a single opinion, a nugget of an idea, or just food for thought. Speakers will have approximately 60 seconds. Talks will consist of two slides, one of which is a title slide (including at least the title itself and the speaker's name, affiliation, and email address).
 - **Open Questions:** We will be holding discussions between WAX attendees. Groups will break out for discussion over lunch and report back to the rest of the attendees. We need your help building a list of discussion topics on approximate computing.
 
 Position papers will go through a full peer-review process by a program committee of 10--15 experts in approximate computing. Papers will not be published in a proceedings, so they do not preclude future publication; instead, we will post PDFs on the workshop's Web site. We also encourage authors of accepted papers to include artifacts---code, data, analysis scripts, etc.---which we will also host alongside the papers.
