@@ -5,9 +5,38 @@ $header-font: $calibri;
 $header-font-weight: bold;
 $body-font: $calibri;
 $body-font-weight: normal;
+$max-width: 900px;
+$min-font: 16px;
 @include typographic();
+
+$highlight-color: #51a012;
 
 body {
     padding-left: 1rem;
     padding-right: 1rem;
+}
+
+header {
+    border-bottom: 2px solid $highlight-color;
+
+    h1 {
+        color: $highlight-color;
+        :link:hover {
+            text-decoration: none;
+        }
+    }
+}
+
+#main {
+    max-width: $max-width;
+}
+
+:link, :visited {
+    color: $highlight-color;
+}
+:link {
+    text-decoration: none;
+}
+:link:hover {
+    text-decoration: underline;
 }

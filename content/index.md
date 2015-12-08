@@ -4,6 +4,20 @@ title = "index"
 type = "index"
 +++
 
-## WAX 2016
+## The 2016 Workshop on Approximate Computing Across the Stack
 
-Welcome to WAX 2016!
+Welcome to the 2016 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
+
+WAX will be co-located with [ASPLOS 2016][] in Atlanta.
+It will be held on April 3, 2016.
+
+Previous instances:
+
+* [WAX 2015][], at FCRC
+* [WACAS 2014][], at ASPLOS
+* [APPROX 2014][], at PLDI
+
+[asplos 2016]: https://www.ece.cmu.edu/calcm/asplos2016/
+[wax 2015]: http://sampa.cs.washington.edu/new/wax2015/
+[wacas 2014]: http://sampa.cs.washington.edu/new/wacas14/
+[approx 2014]: http://approx2014.cs.umass.edu/
