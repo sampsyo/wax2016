@@ -1,0 +1,13 @@
+@import "../bower_components/typographic/scss/typographic.scss";
+
+// Typographic: https://github.com/corysimmons/typographic
+$header-font: $calibri;
+$header-font-weight: bold;
+$body-font: $calibri;
+$body-font-weight: normal;
+@include typographic();
+
+body {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
