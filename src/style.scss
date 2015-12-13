@@ -53,3 +53,12 @@ header {
 :link:hover {
     text-decoration: underline;
 }
+
+img.illus {
+    float: right;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    @media (max-width: $min-width) {
+        display: none;
+    }
+}
