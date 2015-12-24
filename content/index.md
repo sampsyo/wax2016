@@ -19,6 +19,8 @@ Organizers:
 
 {{% people %}}
 
+Please contact the organizers at [wax2016@cs.washington.edu](mailto:wax2016@cs.washington.edu) with questions.
+
 Previous instances:
 
 * [WAX 2015][], at FCRC
