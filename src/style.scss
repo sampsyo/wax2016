@@ -8,6 +8,8 @@ $body-font-weight: normal;
 $body-color: #111;
 $max-width: 900px;
 $min-font: 16px;
+$max-font: 19px;
+$line-height-ratio: 1.4;
 @include typographic();
 
 $highlight-color: #02779E;
