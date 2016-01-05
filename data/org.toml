@@ -17,3 +17,67 @@ url = "http://adriansampson.net/"
 name = "Ben Zorn"
 affiliation = "Microsoft Research"
 url = "http://research.microsoft.com/en-us/people/zorn/"
+
+[[pc]]
+name = "Subhasish Mitra"
+affiliation = "Stanford"
+url = "https://web.stanford.edu/~subh/"
+
+[[pc]]
+name = "Sasa Misailovic"
+affiliation = "UIUC"
+url = "http://people.csail.mit.edu/misailo/"
+
+[[pc]]
+name = "Kathryn McKinley"
+affiliation = "Microsoft Research"
+url = "http://research.microsoft.com/en-us/people/mckinley/"
+
+[[pc]]
+name = "Natalie Enright Jerger"
+affiliation = "University of Toronto"
+url = "http://www.eecg.toronto.edu/~enright/"
+
+[[pc]]
+name = "Jason Mars"
+affiliation = "University of Michigan"
+url = "http://jasonmars.org/"
+
+[[pc]]
+name = "Lingjia Tang"
+affiliation = "University of Michigan"
+url = "http://www.lingjia.org/"
+
+[[pc]]
+name = "Mehrzad Samadi"
+affiliation = "University of Michigan"
+url = "http://web.eecs.umich.edu/~mehrzads/"
+
+[[pc]]
+name = "Phillip Stanley-Marbell"
+affiliation = "MIT"
+url = "http://www.phillipstanleymarbell.org/"
+
+[[pc]]
+name = "Ulya Karpuzcu"
+affiliation = "University of Minnesota"
+url = "http://www.ece.umn.edu/~ukarpuzc/Karpuzcu.html"
+
+[[pc]]
+name = "Andreas Gerstlauer"
+affiliation = "UT Austin"
+url = "http://users.ece.utexas.edu/~gerstl/"
+
+[[pc]]
+name = "Michael Orshansky"
+affiliation = "UT Austin"
+url = "http://users.ece.utexas.edu/~michael/"
+
+[[pc]]
+name = "Yavuz Yetim"
+affiliation = "Google"
+
+[[pc]]
+name = "Kaushik Roy"
+affiliation = "Purdue"
+url = "https://engineering.purdue.edu/ECE/People/profile?resource_id=3085"
