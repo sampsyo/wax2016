@@ -1,6 +1,10 @@
 ul
   {{ range .Page.Site.Data.org.pc }}
     li
-      a href={{ .url }} {{ .name }}
-      | , {{ .affiliation }}
+      {{ if .url }}
+        a href={{ .url }} {{ .name }}
+        | , {{ .affiliation }}
+      {{ else }}
+        | {{ .name }}, {{ .affiliation }}
+      {{ end }}
   {{ end }}
