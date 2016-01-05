@@ -1,0 +1,6 @@
+ul
+  {{ range .Page.Site.Data.org.pc }}
+    li
+      a href={{ .url }} {{ .name }}
+      | , {{ .affiliation }}
+  {{ end }}

@@ -17,9 +17,13 @@ It will be held on Sunday, April 3, 2016.
 
 Organizers:
 
-{{% people %}}
+{{% organizers %}}
 
 Please contact the organizers at [wax2016@cs.washington.edu](mailto:wax2016@cs.washington.edu) with questions.
+
+Program committee:
+
+{{% pc %}}
 
 Previous instances:
 
