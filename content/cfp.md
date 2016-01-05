@@ -38,3 +38,16 @@ We invite participation in three forms: position papers, lightning talks, and di
 Position papers will go through a full peer-review process by a program committee of 10--15 experts in approximate computing. Papers will not be published in a proceedings, so they do not preclude future publication; instead, we will post PDFs on the workshop's Web site. We also encourage authors of accepted papers to include artifacts---code, data, analysis scripts, etc.---which we will also host alongside the papers.
 
 Lightning talks will not be peer reviewed. The organizers will vet slides ahead of time to ensure that they are on topic, but there will be no full review process.
+
+
+### Committee
+
+The program committee for position papers is:
+
+{{% pc %}}
+
+The organizers are:
+
+{{% organizers %}}
+
+You can contact the organizers at [wax2016@cs.washington.edu](mailto:wax2016@cs.washington.edu).
