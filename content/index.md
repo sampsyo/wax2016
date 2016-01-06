@@ -22,7 +22,7 @@ We're still finalizing the timeline, but the tentative dates are:
 
 {{% dates %}}
 
-The organizers are {{% organizers_short %}}
+The organizers are {{% organizers_short %}}.
 Please contact us at [wax2016@cs.washington.edu](mailto:wax2016@cs.washington.edu) with questions.
 
 [asplos 2016]: https://www.ece.cmu.edu/calcm/asplos2016/

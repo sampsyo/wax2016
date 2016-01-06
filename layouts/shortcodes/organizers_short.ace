@@ -1,0 +1,17 @@
+{{ with .Page.Site.Data.org.organizers }}
+  {{ with (index . 0) }}
+    a href={{ .url }} {{ .name }}
+    | , 
+  {{ end }}
+  {{ with (index . 1) }}
+    a href={{ .url }} {{ .name }}
+    | , 
+  {{ end }}
+  {{ with (index . 2) }}
+    a href={{ .url }} {{ .name }}
+    | , and 
+  {{ end }}
+  {{ with (index . 3) }}
+    a href={{ .url }} {{ .name }}
+  {{ end }}
+{{ end }}
