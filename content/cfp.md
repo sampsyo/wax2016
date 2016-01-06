@@ -4,7 +4,7 @@ menu = "main"
 weight = 10
 +++
 
-## Call for Participation (Draft)
+## Call for Participation
 
 WAX is a workshop on approximate computing, a research direction that asks how computer systems can be made better---faster, more efficient, and less complex---by relaxing the requirement that they be exactly correct. Approximation arises from sources as diverse as sensors, machine learning algorithms, and big data applications. Approximate systems raise questions from across the system stack, from circuits to applications. WAX is a venue for discussion, debate, and brainstorming on all of these topics.
 
@@ -15,7 +15,7 @@ With transistor scaling becoming less effective at improving computer system per
 
 Making approximate computing successful requires cooperation among all layers of the stack, from algorithms to programming languages to OSes to architecture to circuits, as well as system components like storage and networks. This workshop aims to bring together an interdisciplinary group of researchers to present and discuss thoughts and ideas on how to effectively exploit approximate computing.
 
-Possible topics at WAX include:
+Topics for WAX include:
 
 - Hardware support for approximate computing
 - Programming languages and compiler support for approximate computing
@@ -31,23 +31,54 @@ Possible topics at WAX include:
 
 We invite participation in three forms: position papers, lightning talks, and discussion topics.
 
-- **Peer-Reviewed Position Papers:** The workshop will include a peer-reviewed program of short position papers. Papers can describe an early-stage research project, advocate an opinion about approximate computing, or reflect on trends in the community. Accepted papers will be presented at the workshop in slots ranging from approximately 5 to 15 minutes depending on the paper's scope and the volume of submissions.
-- **Lightning Talks:** WAX will feature a session for short talks in the morning that present a single opinion, a nugget of an idea, or just food for thought. Speakers will have approximately 60 seconds. Talks will consist of two slides, one of which is a title slide (including at least the title itself and the speaker's name, affiliation, and email address).
-- **Open Questions:** We will be holding discussions between WAX attendees. Groups will break out for discussion over lunch and report back to the rest of the attendees. We need your help building a list of discussion topics on approximate computing.
+#### Peer-Reviewed Position Papers
 
-Position papers will go through a full peer-review process by a program committee of 10--15 experts in approximate computing. Papers will not be published in a proceedings, so they do not preclude future publication; instead, we will post PDFs on the workshop's Web site. We also encourage authors of accepted papers to include artifacts---code, data, analysis scripts, etc.---which we will also host alongside the papers.
+The workshop will include a peer-reviewed program of short position papers. Papers can describe an early-stage research project, advocate an opinion about approximate computing, reflect on trends in the community, or reproduce someone else's published result.
 
-Lightning talks will not be peer reviewed. The organizers will vet slides ahead of time to ensure that they are on topic, but there will be no full review process.
+Position papers will go through a full peer-review process by a [program committee][pc] of experts in approximate computing (see below). Papers will not be published in a proceedings, so they do not preclude future publication; instead, we will post PDFs on the workshop's Web site. We also encourage authors of accepted papers to include artifacts---code, data, analysis scripts, etc.---which we will also host alongside the papers.
+
+Accepted papers will be presented in short talks, around 5 to 15 minutes.
+
+A link will appear here to the submission site. Submissions are tentatively due on February 10, 2016.
+
+[pc]: {{< relref "#program-committee" >}}
+
+#### Lightning Talks
+
+WAX will feature a session for short talks in the morning that present a single opinion, a nugget of an idea, or just food for thought. Speakers will have approximately 60 seconds. Talks will consist of two slides, one of which is a title slide (including at least the title itself and the speaker's name, affiliation, and email address).
+
+Lightning talks will not be peer reviewed. We will vet slides ahead of time to ensure that they are on topic, but there will be no full review process.
+
+Please send your slides to [wax2016@cs.washington.edu][org] by March 16, 2016 (tentatively).
+
+A form will appear on the homepage to submit your topic ideas.
+
+#### Discussion Topics
+
+The WAX program will feature a debate among the attendees. We need your help building a list of controversial topics to serve as grist for the discussion mill.
 
 
-### Committee
+### Tentative Deadlines
+
+We're still finalizing the timeline, but the tentative dates are:
+
+* February 10, 2016: position papers due
+* February 24, 2016: notification for position papers
+* March 16, 2016: lightning-talk slides and discussion topics due
+* April 3, 2016: workshop day (this one's not tentative!)
+
+### Program Committee
 
 The program committee for position papers is:
 
 {{% pc %}}
 
+### Organization
+
 The organizers are:
 
 {{% organizers %}}
 
-You can contact the organizers at [wax2016@cs.washington.edu](mailto:wax2016@cs.washington.edu).
+You can contact the organizers at [wax2016@cs.washington.edu][org].
+
+[org]: mailto:wax2016@cs.washington.edu
