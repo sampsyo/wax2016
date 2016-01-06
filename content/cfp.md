@@ -79,3 +79,15 @@ The organizers are:
 You can contact the organizers at [wax2016@cs.washington.edu][org].
 
 [org]: mailto:wax2016@cs.washington.edu
+
+### Previous Iterations
+
+WAX 2016 succeeds three previous workshops over the last two years:
+
+* [WAX 2015][], at FCRC
+* [WACAS 2014][], at ASPLOS
+* [APPROX 2014][], at PLDI
+
+[wax 2015]: http://sampa.cs.washington.edu/new/wax2015/
+[wacas 2014]: http://sampa.cs.washington.edu/new/wacas14/
+[approx 2014]: http://approx2014.cs.umass.edu/
