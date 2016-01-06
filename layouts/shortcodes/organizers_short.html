@@ -1,1 +1,4 @@
-{{ delimit (apply .Page.Site.Data.org.organizers "echoParam" "." "name") ", " ", and " }}
+{{ index (index .Page.Site.Data.org.organizers 0) "name" }},
+{{ index (index .Page.Site.Data.org.organizers 1) "name" }},
+{{ index (index .Page.Site.Data.org.organizers 2) "name" }}, and
+{{ index (index .Page.Site.Data.org.organizers 3) "name" }}.
