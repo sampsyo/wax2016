@@ -38,6 +38,8 @@ The workshop will include a peer-reviewed program of short position papers. Pape
 Position papers will go through a full peer-review process by a [program committee][pc] of experts in approximate computing (see below). Papers will not be published in a proceedings, so they do not preclude future publication; instead, we will post PDFs on the workshop's Web site. We also encourage authors of accepted papers to include artifacts---code, data, analysis scripts, etc.---which we will also host alongside the papers.
 
 Accepted papers will be presented in short talks, around 5 to 15 minutes.
+We will not publish the paper in a formal proceedings. Instead, we will post PDFs of accepted papers on the workshop's Web site.
+Authors are also encouraged to submit supporting material (code, data dumps, etc.) after acceptance, which we will also host.
 
 A link will appear here to the submission site.
 
