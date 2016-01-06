@@ -1,6 +1,6 @@
 ul
   {{ range .Page.Site.Data.org.dates }}
     li
-      | {{ .date }}: {{ .title }}
+      | {{ .date }}: {{ markdownify .title }}
   {{ end }}
 
