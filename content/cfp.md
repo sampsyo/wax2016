@@ -39,7 +39,7 @@ Position papers will go through a full peer-review process by a [program committ
 
 Accepted papers will be presented in short talks, around 5 to 15 minutes.
 
-A link will appear here to the submission site. Submissions are tentatively due on February 10, 2016.
+A link will appear here to the submission site.
 
 [pc]: {{< relref "#program-committee" >}}
 
@@ -49,7 +49,7 @@ WAX will feature a session for short talks in the morning that present a single 
 
 Lightning talks will not be peer reviewed. We will vet slides ahead of time to ensure that they are on topic, but there will be no full review process.
 
-Please send your slides to [wax2016@cs.washington.edu][org] by March 16, 2016 (tentatively).
+Please send your slides to [wax2016@cs.washington.edu][org].
 
 A form will appear on the homepage to submit your topic ideas.
 
@@ -62,10 +62,7 @@ The WAX program will feature a debate among the attendees. We need your help bui
 
 We're still finalizing the timeline, but the tentative dates are:
 
-* February 10, 2016: position papers due
-* February 24, 2016: notification for position papers
-* March 16, 2016: lightning-talk slides and discussion topics due
-* April 3, 2016: workshop day (this one's not tentative!)
+{{% dates %}}
 
 ### Program Committee
 

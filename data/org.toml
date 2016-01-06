@@ -82,3 +82,20 @@ url = "http://www.lingjia.org/"
 [[pc]]
 name = "Yavuz Yetim"
 affiliation = "Google"
+
+
+[[dates]]
+date = "February 10, 2016"
+title = "position papers due"
+
+[[dates]]
+date = "February 24, 2016"
+title = "notification for position papers"
+
+[[dates]]
+date = "March 16, 2016"
+title = "lightning-talk slides and discussion topics due"
+
+[[dates]]
+date = "April 3, 2016"
+title = "workshop day (this one's not tentative!)"
