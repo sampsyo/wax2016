@@ -43,10 +43,11 @@ Authors are also encouraged to submit supporting material (code, data dumps, etc
 
 Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
 
-A link will appear here to the submission site.
+Submit your papers [via HotCRP][hotcrp].
 
 [pc]: {{< relref "#program-committee" >}}
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
+[hotcrp]: http://approximate.computer/wax2016crp/
 
 #### Lightning Talks
 

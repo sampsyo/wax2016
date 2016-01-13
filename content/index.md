@@ -16,13 +16,19 @@ It will be co-located with [ASPLOS 2016][].
 See the [Call for Participation][cfp].
 You can submit peer-reviewed position papers, lightning talks, and discussion topics---or, we hope, all three.
 
-[cfp]: cfp.html
+The organizers are {{% organizers_short %}}.
+Please contact us at [wax2016@cs.washington.edu](mailto:wax2016@cs.washington.edu) with questions.
+
+
+### Submission
 
 We're still finalizing the timeline, but the tentative dates are:
 
 {{% dates %}}
 
-The organizers are {{% organizers_short %}}.
-Please contact us at [wax2016@cs.washington.edu](mailto:wax2016@cs.washington.edu) with questions.
+You can submit position papers [via HotCRP][hotcrp], lightning talk slides [via email](mailto:wax2016@cs.washington.edu), and discussion topics [via the GitHub wiki][topics].
 
+[topics]: https://github.com/sampsyo/wax2016/wiki/Discussion-Topics
+[hotcrp]: http://approximate.computer/wax2016crp/
 [asplos 2016]: https://www.ece.cmu.edu/calcm/asplos2016/
+[cfp]: cfp.html
