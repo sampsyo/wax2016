@@ -31,4 +31,4 @@ You can submit position papers [via HotCRP][hotcrp], lightning talk slides [via 
 [topics]: https://github.com/sampsyo/wax2016/wiki/Discussion-Topics
 [hotcrp]: http://approximate.computer/wax2016crp/
 [asplos 2016]: https://www.ece.cmu.edu/calcm/asplos2016/
-[cfp]: cfp.html
+[cfp]: cfp/
