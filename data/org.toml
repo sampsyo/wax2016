@@ -20,6 +20,11 @@ url = "http://research.microsoft.com/en-us/people/zorn/"
 
 
 [[pc]]
+name = "Michael Carbin"
+affiliation = "MIT"
+url = "http://people.csail.mit.edu/mcarbin/"
+
+[[pc]]
 name = "Andreas Gerstlauer"
 affiliation = "UT Austin"
 url = "http://users.ece.utexas.edu/~gerstl/"
