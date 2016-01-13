@@ -62,7 +62,9 @@ The WAX program will feature a debate among the attendees. We need your help bui
 
 Please submit a sentence or two about an open problem, philosophical question, or other thought you'd like to see discussed at the workshop. You can submit as many of these as you like. We'll use these suggestions to set up a debate during the workshop.
 
-A form will appear on the homepage to submit your topic ideas.
+Add your topic suggestions by editing [this wiki page][topics] on GitHub.
+
+[topics]: https://github.com/sampsyo/wax2016/wiki/Discussion-Topics
 
 
 ### Tentative Deadlines
