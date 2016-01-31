@@ -60,9 +60,9 @@ A form will appear on the homepage to submit your topic ideas.
 The WAX program will feature a debate among the attendees. We need your help building a list of controversial topics to serve as grist for the discussion mill.
 
 
-### Tentative Deadlines
+### Deadlines
 
-We're still finalizing the timeline, but the tentative dates are:
+Here are the important dates:
 
 {{% dates %}}
 

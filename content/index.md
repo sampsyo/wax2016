@@ -18,7 +18,7 @@ You can submit peer-reviewed position papers, lightning talks, and discussion to
 
 [cfp]: cfp.html
 
-We're still finalizing the timeline, but the tentative dates are:
+Here are the important dates:
 
 {{% dates %}}
 
