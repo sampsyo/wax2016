@@ -41,9 +41,13 @@ Accepted papers will be presented in short talks, around 5 to 15 minutes.
 We will not publish the paper in a formal proceedings. Instead, we will post PDFs of accepted papers on the workshop's Web site.
 Authors are also encouraged to submit supporting material (code, data dumps, etc.) after acceptance, which we will also host.
 
-A link will appear here to the submission site.
+Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
+
+Submit your papers [via HotCRP][hotcrp].
 
 [pc]: {{< relref "#program-committee" >}}
+[sigplanconf]: http://www.sigplan.org/Resources/Author/
+[hotcrp]: http://approximate.computer/wax2016crp/
 
 #### Lightning Talks
 
@@ -53,11 +57,15 @@ Lightning talks will not be peer reviewed. We will vet slides ahead of time to e
 
 Please send your slides to [wax2016@cs.washington.edu][org].
 
-A form will appear on the homepage to submit your topic ideas.
-
 #### Discussion Topics
 
 The WAX program will feature a debate among the attendees. We need your help building a list of controversial topics to serve as grist for the discussion mill.
+
+Please submit a sentence or two about an open problem, philosophical question, or other thought you'd like to see discussed at the workshop. You can submit as many of these as you like. We'll use these suggestions to set up a debate during the workshop.
+
+Add your topic suggestions by editing [this wiki page][topics] on GitHub.
+
+[topics]: https://github.com/sampsyo/wax2016/wiki/Discussion-Topics
 
 
 ### Deadlines
