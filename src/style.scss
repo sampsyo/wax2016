@@ -64,3 +64,8 @@ img.illus {
         display: none;
     }
 }
+
+// Override weird clear behavior in Typographic.
+h1, h2, h3, h4, h5, h6 {
+    clear: none;
+}
