@@ -92,6 +92,7 @@ affiliation = "Google"
 [[dates]]
 date = "February 15, 2016"
 title = "position papers due"
+past = true
 
 [[dates]]
 date = "February 29, 2016"
