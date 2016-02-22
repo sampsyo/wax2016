@@ -20,6 +20,19 @@ The organizers are {{% organizers_short %}}.
 Please contact us at [wax2016@cs.washington.edu](mailto:wax2016@cs.washington.edu) with questions.
 
 
+### Keynotes
+
+WAX will feature two awesome keynote talks:
+
+* [Matthai Philipose][matthai], Microsoft Research  
+  *Continuous Mobile Vision: Why and How to Perform Computer Vision on Video from a Wearable Device*
+* [Naveen Verma][naveen], Princeton  
+  *A Look at the Hardware: What Can Approximation Buy Us, and How Can We Cash In?*
+
+[matthai]: http://research.microsoft.com/en-us/people/matthaip/
+[naveen]: http://ee.princeton.edu/people/faculty/naveen-verma
+
+
 ### Submission
 
 Here are the important dates:
