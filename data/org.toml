@@ -97,10 +97,11 @@ past = true
 [[dates]]
 date = "February 29, 2016"
 title = "notification for position papers"
+past = true
 
 [[dates]]
 date = "March 16, 2016"
-title = "lightning-talk slides and discussion topics due"
+title = "lightning-talk slides, discussion topics, and camera-ready position papers due"
 
 [[dates]]
 date = "April 3, 2016"
