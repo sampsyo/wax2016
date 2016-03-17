@@ -12,7 +12,7 @@ If you're an author, please submit any revisions [via HotCRP][crp] by **March 16
 [crp]: http://approximate.computer/wax2016crp/
 
 * *DOT APPROX: Making a Case for Dynamic Online Training for Function Approximation Techniques*  
-  Aurangzeb (Purdue University)
+  Aurangzeb and Rudolf Eigenmann (Purdue University)
 
 * *Overcoming the Data-flow Limit on Parallelism with Structural Approximation*  
   Vignesh Balaji, Brandon Lucia, and Radu Marculescu (CMU)
@@ -30,7 +30,7 @@ If you're an author, please submit any revisions [via HotCRP][crp] by **March 16
   Seogoo Lee, Behzad Boroujerdian, Lizy K. John, and Andreas Gerstlauer (The University of Texas at Austin)
 
 * *Approximating to the Very Last Bit*  
-  Thierry Moreau and Luis Ceze (University of Washington) and Adrian Sampson (Cornell & Microsoft Research)
+  Thierry Moreau (University of Washington) and Adrian Sampson (Cornell & Microsoft Research) and Luis Ceze and Mark Oskin (University of Washington)
 
 * *Approximate Flash Storage: A Feasibility Study*  
   Amir Rahmati, Matthew Hicks, and Atul Prakash (University of Michigan)
