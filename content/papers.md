@@ -7,7 +7,6 @@ weight = 20
 ## WAX 2016 Position Papers
 
 The program committee selected 12 position papers for short talks at the workshop.
-If you're an author, please submit any revisions [via HotCRP][crp] by **March 16**; we'll post the final versions on this site.
 
 [crp]: http://approximate.computer/wax2016crp/
 
