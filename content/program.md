@@ -7,10 +7,6 @@ title = "Draft Program"
 
 ### Overview
 
-There are 4 paper sessions (3 talks, 45 minutes total), 2 keynotes (45 minutes), lightning sessions (2x15 minutes), and a debate (30 minutes).
-
-This means talks are 10 minutes (with 15 minutes total for questions/discussions/leeway per session).
-
 **9:00--9:15am**: Opening and introductions  
 **9:15--10:00am**: Keynote 1  
 **10:00am--10:15am**: Lightning talks 1  
