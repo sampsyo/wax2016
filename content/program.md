@@ -17,6 +17,11 @@ Be ready to say who you are, where you're affiliated with, and why you're at the
 
 **10:00am--10:15am**: Lightning talks 1
 
+* Armin Alaghi, University of Washington: [*Approximate Computing for Energy-Harvesting Sensor Nodes*](../lightning/alaghi.pdf)
+* Yuhao Zhu, UT Austin: [*The Human Processing Unit (HPU) as a New Approximate Computing Substrate*](../lightning/zhu1.pdf)
+* Jongse Park, Georgia Tech: [*AxGames: Towards Crowdsourcing Quality Target Determination in Approximate Computing*](../lightning/park.pdf)
+* Djordje Jevdjic, University of Washington: [*CloudApp: Approximate Cloud Store for Multimedia*](../lightning/jevdjic.pdf)
+
 **10:15--10:30am**: Break
 
 **10:30--11:15am**: Session 1, *Architecture*
@@ -42,13 +47,17 @@ There will be a 3-minute (short!) moment for questions immediately afterward; in
 
 **noon--1:30pm**: Lunch with discussion groups
 
-We'll select topics for discussion over lunch, assign groups to topics, and choose a scribe for each group. The scribe will be responsible for reporting out from the discussion after lunch.
+We'll select topics for discussion over lunch, assign groups to [topics][], and choose a scribe for each group. The scribe will be responsible for reporting out from the discussion after lunch.
 
 **1:30--1:45pm**: Discussion report-outs
 
 Each group's scribe has a few minutes to lead discussion on the results from the lunch topic.
 
 **1:45--2pm**: Lightning talks 2
+
+* Yuhao Zhu, UT Austin: [*End-to-end Quality Control in Approximate Computing*](../lightning/zhu2.pdf)
+* Vignesh Balaji, CMU: [*Overcoming the Data Flow limit through Structural Approximation*](../lightning/balaji.pdf)
+* Luis Ceze, University of Washington: [*Disciplined Inconsistency*](../lightning/ceze.pdf)
 
 **2--2:45pm**: Keynote by [Naveen Verma][naveen], Princeton
 
@@ -77,3 +86,7 @@ Each group's scribe has a few minutes to lead discussion on the results from the
   Radha Venkatagiri, Abdulrahman Mahmoud, and Sarita V. Adve (University of Illinois at Urbana Champaign)
 
 **4:30--5:00pm and thereafter**: Debate
+
+We'll organize a raucous yet focused debate based on the [discussion topics][topics] you suggest!
+
+[topics]: https://github.com/sampsyo/wax2016/wiki/Discussion-Topics
