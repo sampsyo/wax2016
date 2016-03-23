@@ -57,6 +57,7 @@ Each group's scribe has a few minutes to lead discussion on the results from the
 
 **1:45--2pm**: Lightning talks 2
 
+* Mark Buckler, Cornell: *Approximate Sensing: Bringing Approximation to the Source*
 * Yuhao Zhu, UT Austin: [*End-to-end Quality Control in Approximate Computing*](../lightning/zhu2.pdf)
 * Vignesh Balaji, CMU: [*Overcoming the Data Flow limit through Structural Approximation*](../lightning/balaji.pdf)
 * Luis Ceze, University of Washington: [*Disciplined Inconsistency*](../lightning/ceze.pdf)
