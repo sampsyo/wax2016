@@ -13,7 +13,7 @@ title = "Draft Program"
 **10:15--10:30am**: Break  
 **10:30--11:15am**: Session 1  
 **11:15--noon**: Session 2  
-**noon-1:30pm**: Lunch and discussion  
+**noon--1:30pm**: Lunch and discussion  
 **1:30--1:45pm**: Lunch discussion report-outs  
 **1:45--2pm**: Lightning talks 2  
 **2--2:45pm**: Keynote 2  
