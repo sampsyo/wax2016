@@ -1,5 +1,7 @@
 +++
-title = "Draft Program"
+title = "Preliminary Program"
+menu = "main"
+weight = 20
 +++
 ## WAX 2016 Preliminary Program
 

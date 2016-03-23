@@ -1,7 +1,5 @@
 +++
 title = "Accepted Papers"
-menu = "main"
-weight = 20
 +++
 
 ## WAX 2016 Position Papers
