@@ -75,7 +75,7 @@ Each group's scribe has a few minutes to lead discussion on the results from the
 * [*Overcoming the Data-flow Limit on Parallelism with Structural Approximation*](../papers/balaji.pdf)  
   Vignesh Balaji, Brandon Lucia, and Radu Marculescu (CMU)
 * [*CPSA: Compute Precisely Store Approximately*](../papers/jain.pdf)  
-  Animesh Jain, Parker Hill, Michael A. Laurenzano, and Md E. Haque (University of Michigan, Ann Arbor), Muneeb Khan (Uppsala University), and Jason Mars, Lingjia Tang, and Scott Mahlke (University of Michigan, Ann Arbor)
+  Animesh Jain, Parker Hill, Michael A. Laurenzano, and Md E. Haque (University of Michigan, Ann Arbor), Muneeb Khan (Uppsala University), and Scott Mahlke, Jason Mars, and Lingjia Tang (University of Michigan, Ann Arbor)
 * [*DOT APPROX: Making a Case for Dynamic Online Training for Function Approximation Techniques*](../papers/aurangzeb.pdf)   
   Aurangzeb and Rudolf Eigenmann (Purdue University)
 
