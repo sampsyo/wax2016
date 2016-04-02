@@ -26,7 +26,7 @@ The program committee selected 12 position papers for short talks at the worksho
 * [*Synthesis of Quality Configurable Systems*](lee.pdf)  
   Seogoo Lee, Behzad Boroujerdian, Lizy K. John, and Andreas Gerstlauer (The University of Texas at Austin)
 
-* [*Approximating to the Very Last Bit*](moreau.pdf)   
+* [*Approximating to the Last Bit*](moreau.pdf)   
   Thierry Moreau (University of Washington) and Adrian Sampson (Cornell & Microsoft Research) and Luis Ceze and Mark Oskin (University of Washington)
 
 * [*Approximate Flash Storage: A Feasibility Study*](rahmati.pdf)  
