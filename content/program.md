@@ -1,9 +1,11 @@
 +++
-title = "Preliminary Program"
+title = "Program"
 menu = "main"
 weight = 20
 +++
-## WAX 2016 Preliminary Program
+## WAX 2016 Program
+
+### Conference A, Georgia Tech Hotel and Conference Center
 
 ### Sunday, April 3, 2016
 
