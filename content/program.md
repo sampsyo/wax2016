@@ -82,7 +82,7 @@ Each group's scribe has a few minutes to lead discussion on the results from the
 
 * [*Statistical Error Bounds for Data Parallel Applications*](../papers/hill.pdf)  
   Parker Hill, Michael Laurenzano, Babak Zamirai, Mehrzad Samadi, Scott Mahlke, Jason Mars, and Lingjia Tang (University of Michigan)
-* [*Approximating to the Very Last Bit*](../papers/moreau.pdf)   
+* [*Approximating to the Last Bit*](../papers/moreau.pdf)   
   Thierry Moreau (University of Washington) and Adrian Sampson (Cornell & Microsoft Research) and Luis Ceze and Mark Oskin (University of Washington)
 * [*Towards more Precision in Approximate Computing*](../papers/venkatagiri.pdf)  
   Radha Venkatagiri, Abdulrahman Mahmoud, and Sarita V. Adve (University of Illinois at Urbana Champaign)
