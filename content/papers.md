@@ -8,7 +8,7 @@ The program committee selected 12 position papers for short talks at the worksho
 
 [crp]: http://approximate.computer/wax2016crp/
 
-* [*DOT APPROX: Making a Case for Dynamic Online Training for Function Approximation Techniques*](aurangzeb.pdf)   
+* [*DOT APPROX: Making a Case for Dynamic Online Training for Function Approximation Techniques*](aurangzeb.pdf)  
   Aurangzeb and Rudolf Eigenmann (Purdue University)
 
 * [*Overcoming the Data-flow Limit on Parallelism with Structural Approximation*](balaji.pdf)  
@@ -26,7 +26,7 @@ The program committee selected 12 position papers for short talks at the worksho
 * [*Synthesis of Quality Configurable Systems*](lee.pdf)  
   Seogoo Lee, Behzad Boroujerdian, Lizy K. John, and Andreas Gerstlauer (The University of Texas at Austin)
 
-* [*Approximating to the Last Bit*](moreau.pdf)   
+* [*Approximating to the Last Bit*](moreau.pdf)  
   Thierry Moreau (University of Washington) and Adrian Sampson (Cornell & Microsoft Research) and Luis Ceze and Mark Oskin (University of Washington)
 
 * [*Approximate Flash Storage: A Feasibility Study*](rahmati.pdf)  
@@ -35,7 +35,7 @@ The program committee selected 12 position papers for short talks at the worksho
 * [*Approximate and Noisy Computing: Connections to the Information-Theory World*](sala.pdf)  
   Frederic Sala, Clayton Schoeny, and Lara Dolecek (UCLA)
 
-* [*The Case for Compulsory Approximation*](sampson.pdf)   
+* [*The Case for Compulsory Approximation*](sampson.pdf)  
   Adrian Sampson (Cornell & Microsoft Research)
 
 * [*Approximate Computing and Microfluidic Cooling for Enhanced Machine Learning*](sharma.pdf)  
