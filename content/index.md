@@ -13,35 +13,16 @@ weight = 0
 Welcome to the 2016 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
 It will be co-located with [ASPLOS 2016][].
 
-See the [Call for Participation][cfp].
-You can submit peer-reviewed position papers, lightning talks, and discussion topics---or, we hope, all three.
+Check out the [program][program], and
+see the archived [Call for Participation][cfp] for some parameters.
+
+It's not too late to add discussion topics [via the GitHub wiki][topics]!
 
 The organizers are {{% organizers_short %}}.
 Please contact us at [wax2016@cs.washington.edu](mailto:wax2016@cs.washington.edu) with questions.
-
-
-### Keynotes
-
-WAX will feature two awesome keynote talks:
-
-* [Matthai Philipose][matthai], Microsoft Research  
-  *Continuous Mobile Vision: Why and How to Perform Computer Vision on Video from a Wearable Device*
-* [Naveen Verma][naveen], Princeton  
-  *A Look at the Hardware: What Can Approximation Buy Us, and How Can We Cash In?*
-
-[matthai]: http://research.microsoft.com/en-us/people/matthaip/
-[naveen]: http://ee.princeton.edu/people/faculty/naveen-verma
-
-
-### Submission
-
-Here are the important dates:
-
-{{% dates %}}
-
-You can submit position papers [via HotCRP][hotcrp], lightning talk slides [via email](mailto:wax2016@cs.washington.edu), and discussion topics [via the GitHub wiki][topics].
 
 [topics]: https://github.com/sampsyo/wax2016/wiki/Discussion-Topics
 [hotcrp]: http://approximate.computer/wax2016crp/
 [asplos 2016]: https://www.ece.cmu.edu/calcm/asplos2016/
 [cfp]: cfp/
+[program]: program/

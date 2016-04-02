@@ -1,7 +1,5 @@
 +++
 title = "Call for Participation"
-menu = "main"
-weight = 10
 +++
 
 ## Call for Participation
