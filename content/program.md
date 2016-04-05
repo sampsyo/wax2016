@@ -36,14 +36,16 @@ There will be a 3-minute (short!) moment for questions immediately afterward; in
 * [*Synthesis of Quality Configurable Systems*](../papers/lee.pdf)  
   Seogoo Lee, Behzad Boroujerdian, Lizy K. John, and Andreas Gerstlauer (The University of Texas at Austin)
 * [*Approximate Flash Storage: A Feasibility Study*](../papers/rahmati.pdf)  
-  Amir Rahmati, Matthew Hicks, and Atul Prakash (University of Michigan)
+  Amir Rahmati, Matthew Hicks, and Atul Prakash (University of Michigan)  
+  [slides](../slides/rahmati.pdf)
 * [*Approximate Computing and Microfluidic Cooling for Enhanced Machine Learning*](../papers/sharma.pdf)  
   Hardik Sharma, William Wahby, Thomas Sarvey, Muhannad S. Bakir, and Hadi Esmailzadeh (Georgia Institute of Technology)
 
 **11:15--noon**: Session 2, *Connections*
 
 * [*WoCMan: Harnessing the Wisdom of the Crowds for High-Quality Estimates*](../papers/barowy.pdf)  
-  Daniel W. Barowy and Emery D. Berger (University of Massachusetts Amherst) and Daniel Goldstein and Siddharth Suri (Microsoft Research)
+  Daniel W. Barowy and Emery D. Berger (University of Massachusetts Amherst) and Daniel Goldstein and Siddharth Suri (Microsoft Research)  
+  [slides](../slides/barowy.pdf)
 * [*Approximate and Noisy Computing: Connections to the Information-Theory World*](../papers/sala.pdf)  
   Frederic Sala, Clayton Schoeny, and Lara Dolecek (UCLA)
 * [*The Case for Compulsory Approximation*](../papers/sampson.pdf)   
@@ -66,7 +68,7 @@ Each group's scribe has a few minutes to lead discussion on the results from the
 
 **2--2:45pm**: Keynote by [Naveen Verma][naveen], Princeton
 
-*A Look at the Hardware: What Can Approximation Buy Us, and How Can We Cash In?*
+[*A Look at the Hardware: What Can Approximation Buy Us, and How Can We Cash In?*](../slides/verma.pdf)
 
 [naveen]: http://ee.princeton.edu/people/faculty/naveen-verma
 
@@ -75,7 +77,8 @@ Each group's scribe has a few minutes to lead discussion on the results from the
 **3--3:45pm**: Session 3, *Mechanisms*
 
 * [*Overcoming the Data-flow Limit on Parallelism with Structural Approximation*](../papers/balaji.pdf)  
-  Vignesh Balaji, Brandon Lucia, and Radu Marculescu (CMU)
+  Vignesh Balaji, Brandon Lucia, and Radu Marculescu (CMU)  
+  [slides](../slides/balaji.pdf)
 * [*CPSA: Compute Precisely Store Approximately*](../papers/jain.pdf)  
   Animesh Jain, Parker Hill, Michael A. Laurenzano, and Md E. Haque (University of Michigan, Ann Arbor), Muneeb Khan (Uppsala University), and Scott Mahlke, Lingjia Tang, and Jason Mars (University of Michigan, Ann Arbor)
 * [*DOT APPROX: Making a Case for Dynamic Online Training for Function Approximation Techniques*](../papers/aurangzeb.pdf)   
@@ -85,8 +88,9 @@ Each group's scribe has a few minutes to lead discussion on the results from the
 
 * [*Statistical Error Bounds for Data Parallel Applications*](../papers/hill.pdf)  
   Parker Hill, Michael Laurenzano, Babak Zamirai, Mehrzad Samadi, Scott Mahlke, Jason Mars, and Lingjia Tang (University of Michigan)
-* [*Approximating to the Last Bit*](../papers/moreau.pdf)   
-  Thierry Moreau (University of Washington) and Adrian Sampson (Cornell & Microsoft Research) and Luis Ceze and Mark Oskin (University of Washington)
+* [*Approximating to the Last Bit*](../papers/moreau.pdf)  
+  Thierry Moreau (University of Washington) and Adrian Sampson (Cornell & Microsoft Research) and Luis Ceze and Mark Oskin (University of Washington)  
+  [slides](../slides/moreau.pdf)
 * [*Towards more Precision in Approximate Computing*](../papers/venkatagiri.pdf)  
   Radha Venkatagiri, Abdulrahman Mahmoud, and Sarita V. Adve (University of Illinois at Urbana Champaign)
 
