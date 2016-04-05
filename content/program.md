@@ -62,6 +62,7 @@ Each group's scribe has a few minutes to lead discussion on the results from the
 * Mark Buckler, Cornell: [*Approximate Sensing: Bringing Approximation to the Source*](../lightning/buckler.pdf)
 * Yuhao Zhu, UT Austin: [*End-to-end Quality Control in Approximate Computing*](../lightning/zhu2.pdf)
 * Luis Ceze, University of Washington: [*Disciplined Inconsistency*](../lightning/ceze.pdf)
+* Ben Zorn, Microsoft Research: [*We Need a Handle on Approximate Computing  Now!*](../lightning/zorn.pdf)
 
 **2--2:45pm**: Keynote by [Naveen Verma][naveen], Princeton
 
@@ -91,6 +92,7 @@ Each group's scribe has a few minutes to lead discussion on the results from the
 
 **4:30--5:00pm and thereafter**: Debate
 
-We'll organize a raucous yet focused debate based on the [discussion topics][topics] you suggest!
+Topics:
 
-[topics]: https://github.com/sampsyo/wax2016/wiki/Discussion-Topics
+* Do we *really* need strict quality guarantees?
+* Does approximation *really* need to be general?
