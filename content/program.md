@@ -34,7 +34,8 @@ Talks are 10 minutes each.
 There will be a 3-minute (short!) moment for questions immediately afterward; in the rest of the time, all the speakers will be available to answer more questions from attendees.
 
 * [*Synthesis of Quality Configurable Systems*](../papers/lee.pdf)  
-  Seogoo Lee, Behzad Boroujerdian, Lizy K. John, and Andreas Gerstlauer (The University of Texas at Austin)
+  Seogoo Lee, Behzad Boroujerdian, Lizy K. John, and Andreas Gerstlauer (The University of Texas at Austin)  
+  [slides](../slides/boroujerdian.pdf)
 * [*Approximate Flash Storage: A Feasibility Study*](../papers/rahmati.pdf)  
   Amir Rahmati, Matthew Hicks, and Atul Prakash (University of Michigan)  
   [slides](../slides/rahmati.pdf)
