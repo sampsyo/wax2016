@@ -40,7 +40,8 @@ There will be a 3-minute (short!) moment for questions immediately afterward; in
   Amir Rahmati, Matthew Hicks, and Atul Prakash (University of Michigan)  
   [slides](../slides/rahmati.pdf)
 * [*Approximate Computing and Microfluidic Cooling for Enhanced Machine Learning*](../papers/sharma.pdf)  
-  Hardik Sharma, William Wahby, Thomas Sarvey, Muhannad S. Bakir, and Hadi Esmailzadeh (Georgia Institute of Technology)
+  Hardik Sharma, William Wahby, Thomas Sarvey, Muhannad S. Bakir, and Hadi Esmailzadeh (Georgia Institute of Technology)  
+  [slides](../slides/wahby.pdf)
 
 **11:15--noon**: Session 2, *Connections*
 
