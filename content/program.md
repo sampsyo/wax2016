@@ -50,7 +50,8 @@ There will be a 3-minute (short!) moment for questions immediately afterward; in
 * [*Approximate and Noisy Computing: Connections to the Information-Theory World*](../papers/sala.pdf)  
   Frederic Sala, Clayton Schoeny, and Lara Dolecek (UCLA)
 * [*The Case for Compulsory Approximation*](../papers/sampson.pdf)   
-  Adrian Sampson (Cornell & Microsoft Research)
+  Adrian Sampson (Cornell & Microsoft Research)  
+  [slides](../slides/sampson.pdf)
 
 **noon--1:30pm**: Lunch with discussion groups
 
