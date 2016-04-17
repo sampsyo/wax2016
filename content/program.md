@@ -40,7 +40,8 @@ There will be a 3-minute (short!) moment for questions immediately afterward; in
   Amir Rahmati, Matthew Hicks, and Atul Prakash (University of Michigan)  
   [slides](../slides/rahmati.pdf)
 * [*Approximate Computing and Microfluidic Cooling for Enhanced Machine Learning*](../papers/sharma.pdf)  
-  Hardik Sharma, William Wahby, Thomas Sarvey, Muhannad S. Bakir, and Hadi Esmailzadeh (Georgia Institute of Technology)
+  Hardik Sharma, William Wahby, Thomas Sarvey, Muhannad S. Bakir, and Hadi Esmailzadeh (Georgia Institute of Technology)  
+  [slides](../slides/wahby.pdf)
 
 **11:15--noon**: Session 2, *Connections*
 
@@ -89,7 +90,8 @@ Each group's scribe has a few minutes to lead discussion on the results from the
 **3:45--4:30pm**: Session 4, *Accuracy*
 
 * [*Statistical Error Bounds for Data Parallel Applications*](../papers/hill.pdf)  
-  Parker Hill, Michael Laurenzano, Babak Zamirai, Mehrzad Samadi, Scott Mahlke, Jason Mars, and Lingjia Tang (University of Michigan)
+  Parker Hill, Michael Laurenzano, Babak Zamirai, Mehrzad Samadi, Scott Mahlke, Jason Mars, and Lingjia Tang (University of Michigan)  
+  [slides](../slides/hill.pdf)
 * [*Approximating to the Last Bit*](../papers/moreau.pdf)  
   Thierry Moreau (University of Washington) and Adrian Sampson (Cornell & Microsoft Research) and Luis Ceze and Mark Oskin (University of Washington)  
   [slides](../slides/moreau.pdf)
